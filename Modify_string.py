@@ -1,4 +1,4 @@
-
+# upper(),lower(),strip(),replace(),split()
 #upper()
 a = "Hello, World!"
 print(a.upper())
